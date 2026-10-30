@@ -1,0 +1,10 @@
+id: YDP360B003-V1
+category: displays
+size: "3.6"
+panel: tft
+resolution: 544x506
+interface: [rgb]
+driver: ST72566
+touch: null
+outline: 98.88 x 94.12 x 7.7 mm
+active_area: 89.76 x 83.49 mm
